@@ -1,0 +1,152 @@
+# Blender 3.6.1 MTL File: 'human.blend'
+# www.blender.org
+
+newmtl Human.001.body
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.721000 0.568000 0.431000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Human.ears
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.721000 0.568000 0.431000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Human.eyebrow001
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_d C:/Users/GanGss/AppData/Roaming/Blender Foundation/Blender/3.6/mpfb/data/eyebrows/eyebrow001/eyebrow001.png
+
+newmtl Human.eyelashes01
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_d C:/Users/GanGss/AppData/Roaming/Blender Foundation/Blender/3.6/mpfb/data/eyelashes/eyelashes01/eyelashes01.png
+
+newmtl Human.fingernails
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.721000 0.568000 0.431000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Human.genitals
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.721000 0.568000 0.431000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Human.lips
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.721000 0.568000 0.431000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Human.low-poly
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.950000 0.950000 0.950000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Human.male_casualsuit01
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_d C:/Users/GanGss/AppData/Roaming/Blender Foundation/Blender/3.6/mpfb/data/clothes/male_casualsuit01/male_casualsuit01_diffuse.png
+
+newmtl Human.nipple
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.721000 0.568000 0.431000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Human.shoes03
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_d C:/Users/GanGss/AppData/Roaming/Blender Foundation/Blender/3.6/mpfb/data/clothes/shoes03/shoes03_diffuse.png
+
+newmtl Human.short01
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_d C:/Users/GanGss/AppData/Roaming/Blender Foundation/Blender/3.6/mpfb/data/hair/short01/short01_diffuse.png
+
+newmtl Human.teeth_base
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_d C:/Users/GanGss/AppData/Roaming/Blender Foundation/Blender/3.6/mpfb/data/teeth/teeth_base/teeth.png
+
+newmtl Human.toenails
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.721000 0.568000 0.431000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Human.tongue01
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_d C:/Users/GanGss/AppData/Roaming/Blender Foundation/Blender/3.6/mpfb/data/tongue/tongue01/tongue01_diffuse.png
